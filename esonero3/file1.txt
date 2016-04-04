@@ -1,0 +1,5 @@
+banca edificio
+scuola palazzo
+minion guerriero
+banca istituzione
+banca nonCiPiace

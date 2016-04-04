@@ -1,0 +1,3 @@
+proprieta1=valore1
+proprieta2=valore2,valore3
+proprieta3=valore3,valore4,valore5
